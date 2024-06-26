@@ -12,7 +12,7 @@ const Results: FC<Props> = ({ indexs }) => {
             <div className="res">
                 <Image
                     className="img"
-                    src="/src/assets/img/resultsIcon.png"
+                    src="https://cdn-icons-png.flaticon.com/512/7626/7626666.png"
                     alt=""
                 />
                 <span>вы ответили на {indexs} вопроса верно</span>
