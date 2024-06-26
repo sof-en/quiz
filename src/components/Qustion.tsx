@@ -7,7 +7,7 @@ interface Props {
     step: number;
     question: {
         question: string;
-        arr: string[];
+        arr: string[] | number[];
         current: number;
     };
 }
